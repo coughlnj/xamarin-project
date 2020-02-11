@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj": {}
+    "D:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj": {}
   },
   "projects": {
-    "C:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj": {
+    "D:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+        "projectUniqueName": "D:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
         "projectName": "App1.iOS",
-        "projectPath": "C:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+        "projectPath": "D:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
         "packagesPath": "C:\\Users\\Neil\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\obj\\",
+        "outputPath": "D:\\git\\xamarin-project\\App1\\App1\\App1.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj": {
-                "projectPath": "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj"
+              "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj": {
+                "projectPath": "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj": {
+    "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
+        "projectUniqueName": "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
         "projectName": "App1",
-        "projectPath": "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
+        "projectPath": "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
         "packagesPath": "C:\\Users\\Neil\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\xamarin-project\\App1\\App1\\App1\\obj\\",
+        "outputPath": "D:\\git\\xamarin-project\\App1\\App1\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

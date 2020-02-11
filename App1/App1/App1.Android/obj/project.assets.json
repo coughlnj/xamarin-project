@@ -1938,11 +1938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\xamarin-project\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectUniqueName": "D:\\git\\xamarin-project\\App1\\App1\\App1.Android\\App1.Android.csproj",
       "projectName": "App1.Android",
-      "projectPath": "C:\\git\\xamarin-project\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectPath": "D:\\git\\xamarin-project\\App1\\App1\\App1.Android\\App1.Android.csproj",
       "packagesPath": "C:\\Users\\Neil\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\xamarin-project\\App1\\App1\\App1.Android\\obj\\",
+      "outputPath": "D:\\git\\xamarin-project\\App1\\App1\\App1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj"
+            "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj": {
+              "projectPath": "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj"
             }
           }
         }

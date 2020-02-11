@@ -573,11 +573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
+      "projectPath": "D:\\git\\xamarin-project\\App1\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\Neil\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\xamarin-project\\App1\\App1\\App1\\obj\\",
+      "outputPath": "D:\\git\\xamarin-project\\App1\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
